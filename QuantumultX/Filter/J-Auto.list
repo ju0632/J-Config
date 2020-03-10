@@ -1,5 +1,5 @@
 # > blog 
 DOMAIN-SUFFIX,limbopro.xyz, PROXY
 # host-keyword, limbopro.xyz,Proxy
-DOMAIN-SUFFIX,github.com,DIRECT
-DOMAIN-SUFFIX,githubusercontent.com,DIRECT
+host-keyword,github.com,DIRECT
+host-keyword,githubusercontent.com,DIRECT
