@@ -2,3 +2,11 @@
 DOMAIN,a.wkanx.com,REJECT
 DOMAIN,cwx.lianwangtech.com,REJECT
 DOMAIN,c1wx.lianwangtech.com,REJECT
+
+# 迅雷版权问题
+host, hub5idx.v6.shub.sandai.net, reject
+host, hub5emu.v6.shub.sandai.net, reject
+host, hub5btmain.v6.shub.sandai.net, reject
+
+# 去掉YouTube++底部广告
+host-suffix, ehg-youtube.hitbox.com, reject
