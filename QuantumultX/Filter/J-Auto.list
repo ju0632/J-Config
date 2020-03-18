@@ -2,4 +2,5 @@
 DOMAIN-SUFFIX,limbopro.xyz, PROXY
 # host-keyword, limbopro.xyz,Proxy
 
-# host-keyword,github,DIRECT
+# > 小说网站
+DOMAIN-SUFFIX,changduwx.com,DIRECT
