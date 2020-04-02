@@ -9,4 +9,4 @@ host-suffix, ehg-youtube.hitbox.com, reject
 # 去爱阅书香广告
 host-suffix, umengcloud.com, reject
 host-suffix, api.ixdzs.com, reject
-host-suffix, alogs.umeng.com, reject
+host, alogs.umeng.com, reject
