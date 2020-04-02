@@ -5,3 +5,8 @@ host, hub5btmain.v6.shub.sandai.net, reject
 
 # 去掉YouTube++底部广告
 host-suffix, ehg-youtube.hitbox.com, reject
+
+# 去爱阅书香广告
+host-suffix, umengcloud.com, reject
+host-suffix, api.ixdzs.com, reject
+host-suffix, alogs.umeng.com, reject
