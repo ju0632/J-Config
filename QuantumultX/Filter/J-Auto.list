@@ -15,6 +15,5 @@ DOMAIN-SUFFIX,zwda.com,DIRECT
 # > 音乐
 DOMAIN-SUFFIX,music.126.net,DIRECT
 
-
 # > 今日热榜
 DOMAIN-SUFFIX,tophub.today,Proxy
