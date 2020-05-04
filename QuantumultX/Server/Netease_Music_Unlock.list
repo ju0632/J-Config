@@ -1,0 +1,17 @@
+# 网易云解锁节点 @desperadoj
+http=music.desperadoj.com:30002, username=Netease Music, password=none, fast-open=false, udp-relay=false, tag=🎧 网易云音乐🔓1
+
+# 
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag=🎧 网易云音乐🔓2
+
+# 网易云解锁节点
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧 网易云音乐🔓3
+
+# 网易云解锁节点
+http=111.67.197.245:10086, fast-open=false, udp-relay=false, tag=🎧 网易云音乐🔓4
+
+# 网易云解锁节点
+shadowsocks=120.55.164.155:18888, method=chacha20-ietf, password=musicli, fast-open=false, udp-relay=false, tag=🎧 网易云音乐🔓5
+
+# 网易云解锁节点
+shadowsocks=120.55.164.155:36785, method=chacha20-ietf, password=msicli, fast-open=false, udp-relay=false, tag=🎧 网易云音乐🔓6
