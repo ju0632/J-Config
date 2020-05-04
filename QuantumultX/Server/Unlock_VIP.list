@@ -1,0 +1,4 @@
+# Unlock VIP
+http=test.ejiaogl.com:8889, fast-open=false, udp-relay=false, tag= 💎 UnlockVIP 1
+
+shadowsocks=test.ejiaogl.com:9998, method=RC4-MD5, password=ejiaogl, udp-relay=false, tag= 💎 UnlockVIP 2
