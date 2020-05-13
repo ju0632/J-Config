@@ -27,3 +27,6 @@ ip-cidr, 182.254.116.0/24, direct
 
 # > 萤石云
 DOMAIN-SUFFIX,ys7.com,DIRECT
+
+# > 向日葵
+DOMAIN-SUFFIX,iok.la,DIRECT
