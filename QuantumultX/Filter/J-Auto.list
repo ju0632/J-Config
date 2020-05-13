@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,music.126.net,DIRECT
 # > 今日热榜
 ; USER-AGENT,Tophub*,Proxy
 ; DOMAIN-SUFFIX,tophub.today,Proxy
+
+# > 腾讯
+ip-cidr, 182.254.116.0/24, direct
