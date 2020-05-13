@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,music.126.net,DIRECT
 
 # > 腾讯
 ip-cidr, 182.254.116.0/24, direct
+
+# > 萤石云
+DOMAIN-SUFFIX,ys7.com,DIRECT
