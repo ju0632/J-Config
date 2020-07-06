@@ -1,3 +1,5 @@
+# 自定义项 Reject
+
 # 迅雷版权问题
 host, hub5idx.v6.shub.sandai.net, reject
 host, hub5emu.v6.shub.sandai.net, reject
@@ -10,3 +12,16 @@ host-suffix, ehg-youtube.hitbox.com, reject
 host-suffix, umengcloud.com, reject
 host-suffix, api.ixdzs.com, reject
 host, alogs.umeng.com, reject
+
+# 腾讯广点通广告
+host,mi.gdt.qq.com,reject
+host,v.gdt.qq.com,reject
+host,pp.myapp.com,reject
+host,qzonestyle.gtimg.cn,reject
+host,pgdt.gtimg.cn,reject
+
+# 广告
+host,c.snnd.co,reject
+host,ccloud.sdkclickurl.com,reject
+host,rfrl.pw,reject
+host,api.applovefrom.com,reject
