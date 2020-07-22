@@ -74,3 +74,4 @@ host-suffix,sohu.gg,direct
 # 机场
 host-keyword,bnsss,proxy
 host-suffix,v2ray.life,proxy
+host-suffix,pud.life,proxy
