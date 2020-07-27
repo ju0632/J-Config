@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,zwda.com,DIRECT
 DOMAIN-SUFFIX,music.126.net,DIRECT
 
 # 视频站
-;USER-AGENT, dan_video, direct
+USER-AGENT, dan_video, direct
 
 # > 腾讯
 ip-cidr, 182.254.116.0/24, direct
