@@ -3,14 +3,14 @@
 host-suffix,52tuse.com,direct
 
 # > chavy.box
-ip-cidr, 8.8.8.8/32, proxy
+;ip-cidr, 8.8.8.8/32, proxy
 
 # > Apple
 # 自定义项
 # Apple TestFlight
-DOMAIN,testflight.apple.com, Apple
+;DOMAIN,testflight.apple.com, Apple
 # Apple绕过企业证书过期
-host, ocsp.apple.com, reject
+;host, ocsp.apple.com, reject
 # App Store下载转圈修复
 ;host, p14-buy.itunes.apple.com, proxy
 
@@ -19,8 +19,10 @@ host, CDN.jdelivr.net, direct
 
 # > 福利吧
 host-keyword,fulibus,direct
+
 # Github
 ;host,github.com,direct
+
 # > 今日热榜
 ; USER-AGENT,Tophub*,Proxy
 ; DOMAIN-SUFFIX,tophub.today,Proxy
@@ -29,12 +31,12 @@ host-suffix,tophub.today,direct
 # > 京东
 DOMAIN-SUFFIX,cc.m.jd.com,DIRECT
 
-# > blog 
+# > Blog 
 DOMAIN-SUFFIX,limbopro.xyz, PROXY
 DOMAIN-SUFFIX,jiaowoy.top, PROXY
 
-
 # > 小说网站
+host-keyword,xiaoshuo,direct
 DOMAIN-SUFFIX,changduwx.com,DIRECT
 DOMAIN-SUFFIX,kygso.com,DIRECT
 DOMAIN-SUFFIX,zwda.com,DIRECT
@@ -42,7 +44,12 @@ DOMAIN-SUFFIX,cn3k5.com,DIRECT
 DOMAIN-SUFFIX,ewenxue.org,DIRECT
 DOMAIN-SUFFIX,9txs.com,DIRECT
 DOMAIN-SUFFIX,147xiaoshuo.com,DIRECT
-DOMAIN-SUFFIX,zwda.com,DIRECT
+host-keyword,biquge,direct
+host-suffix,69shu.com,direct
+host-suffix,shouda8.com,direct
+host-suffix,8jzw.com,direct
+host-suffix,yunxs.com,direct
+
 
 # > 音乐
 DOMAIN-SUFFIX,music.126.net,DIRECT
@@ -58,14 +65,6 @@ DOMAIN-SUFFIX,ys7.com,DIRECT
 
 # > 向日葵
 DOMAIN-SUFFIX,iok.la,DIRECT
-
-# 小说站
-host-keyword,xiaoshuo,direct
-host-keyword,biquge,direct
-host-suffix,69shu.com,direct
-host-suffix,shouda8.com,direct
-host-suffix,8jzw.com,direct
-host-suffix,yunxs.com,direct
 
 # 其他
 host-suffix,nctoro.com,proxy
