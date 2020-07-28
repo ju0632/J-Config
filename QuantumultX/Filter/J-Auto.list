@@ -4,6 +4,7 @@ host-suffix,52tuse.com,direct
 
 # > chavy.box
 ;ip-cidr, 8.8.8.8/32, proxy
+;ip-cidr, 1.1.1.1/32, direct
 
 # > Apple
 # 自定义项
