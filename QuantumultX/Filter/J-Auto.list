@@ -24,6 +24,9 @@ host-keyword,fulibus,direct
 # Github
 ;host,github.com,direct
 
+# gitee
+host,gitee.com,direct
+
 # > 今日热榜
 ; USER-AGENT,Tophub*,Proxy
 ; DOMAIN-SUFFIX,tophub.today,Proxy
