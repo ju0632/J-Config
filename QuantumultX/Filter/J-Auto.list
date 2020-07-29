@@ -15,6 +15,10 @@ host-suffix,52tuse.com,direct
 # App Store下载转圈修复
 ;host, p14-buy.itunes.apple.com, proxy
 
+# 微信
+USER-AGENT,FBiOSSDK*, DIRECT
+
+
 # CDN
 host, CDN.jdelivr.net, direct
 
