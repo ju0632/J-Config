@@ -20,7 +20,7 @@ USER-AGENT,FBiOSSDK*, DIRECT
 
 
 # CDN
-host, CDN.jdelivr.net, direct
+host, cdn.jsdelivr.net, direct
 
 # > 福利吧
 host-keyword,fulibus,direct
