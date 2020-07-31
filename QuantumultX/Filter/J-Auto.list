@@ -21,6 +21,7 @@ USER-AGENT,FBiOSSDK*, DIRECT
 
 # CDN
 host, cdn.jsdelivr.net, direct
+host, cdn.staticaly.com, direct
 
 # > 福利吧
 host-keyword,fulibus,direct
