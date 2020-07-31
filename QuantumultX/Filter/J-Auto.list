@@ -18,16 +18,8 @@ host-suffix,52tuse.com,direct
 # 微信
 USER-AGENT,FBiOSSDK*, DIRECT
 
-
-# CDN
-host, cdn.jsdelivr.net, direct
-host, cdn.staticaly.com, direct
-
 # > 福利吧
 host-keyword,fulibus,direct
-
-# Github
-;host,github.com,direct
 
 # gitee
 host,gitee.com,direct
