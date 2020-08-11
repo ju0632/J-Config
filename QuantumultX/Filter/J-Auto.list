@@ -73,6 +73,9 @@ DOMAIN-SUFFIX,ys7.com,DIRECT
 # > 向日葵
 DOMAIN-SUFFIX,iok.la,DIRECT
 
+# 有个伴
+DOMAIN-SUFFIX,cutecomm,DIRECT
+
 # 其他
 host-suffix,nctoro.com,proxy
 host, rsshub.app, proxy
