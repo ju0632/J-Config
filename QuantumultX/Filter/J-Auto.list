@@ -6,6 +6,12 @@ host-suffix,52tuse.com,direct
 ;ip-cidr, 8.8.8.8/32, proxy
 ;ip-cidr, 1.1.1.1/32, direct
 
+# 银行
+host-keyword,bank,direct
+
+# CA机构
+host-keyword,digicert,direct
+
 # > Apple
 # 自定义项
 # Apple TestFlight
